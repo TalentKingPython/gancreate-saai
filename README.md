@@ -75,8 +75,3 @@ Trained our own models and integrated various ML models. We are also proud that 
 - Improve Text2Art so it can be used to edit the avatar or the video
 - Improve full body video synthesis robustness
 - Add community or social feature e.g. login, feed, profile, etc
-
-## Meet the team
-We are an international team of 2 students from Indonesia and Malaysia. 
-- Rashad: [https://www.mfrashad.com/](https://www.mfrashad.com/)
-- Tan: [https://tanlitung.github.io/](https://tanlitung.github.io/)
